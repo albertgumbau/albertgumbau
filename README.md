@@ -1,6 +1,7 @@
 SIDE PROJECTS:
-[![CurseForge Downloads](https://img.shields.io/badge/Total_Downloads-9.4K-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)](https://www.curseforge.com/members/silverboy/projects)
-
+<br>
+<br>
+[![CurseForge Downloads](https://img.shields.io/badge/CurseForge_Total_Downloads-9.4K-F16436?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTguMzI2IDkuMjE0NVMyMy4yMjYxIDguNDQxOCAyNCA2LjE4ODJoLTcuNTA2NlY0LjRIMGwyLjAzMTggMi4zNTc2VjkuMTczczUuMTI2Ny0uMjY2NSA3LjEwOTggMS4yMzcyYzIuNzE0NiAyLjUxNi0zLjA1MyA1LjkxNy0zLjA1MyA1LjkxN0w1LjA5OTUgMTkuNmMxLjU0NjUtMS40NzI2IDQuNDk0LTMuMzc3NSA5Ljg5ODMtMy4yODU3LTIuMDU2NS42NS00LjEyNDUgMS42NjUxLTUuNzM0NCAzLjI4NTdoMTAuOTI0OGwtMS4wMjg4LTMuMjcyNnMtNy45MTgtNC42Njg4LS44MzM2LTcuMTEyN3oiLz48L3N2Zz4=)](https://www.curseforge.com/members/silverboy/projects)
 
 
 
