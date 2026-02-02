@@ -1,4 +1,6 @@
-## Hi there 👋
+[![CurseForge Downloads](https://img.shields.io/badge/Downloads-12345-orange?style=for-the-badge)](https://www.curseforge.com/members/silverboy/projects)
+
+
 
 <!--
 **albertgumbau/albertgumbau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
