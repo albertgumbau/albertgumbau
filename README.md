@@ -1,4 +1,4 @@
-[![CurseForge Downloads](https://img.shields.io/badge/Downloads-12345-orange?style=for-the-badge)](https://www.curseforge.com/members/silverboy/projects)
+[![CurseForge Downloads](https://img.shields.io/badge/Curseforge-Total_Downloads:9.4K-orange?style=for-the-badge)](https://www.curseforge.com/members/silverboy/projects)
 
 
 
