@@ -1,4 +1,6 @@
-[![CurseForge Downloads](https://img.shields.io/badge/Curseforge-Total_Downloads_9.4K-orange?style=for-the-badge)](https://www.curseforge.com/members/silverboy/projects)
+SIDE PROJECTS:
+[![CurseForge Downloads](https://img.shields.io/badge/Total_Downloads-9.4K-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)](https://www.curseforge.com/members/silverboy/projects)
+
 
 
 
